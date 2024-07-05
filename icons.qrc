@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/menu/copy.svg</file>
+        <file>res/menu/open.svg</file>
+        <file>res/menu/oval.svg</file>
+        <file>res/menu/paste.svg</file>
+        <file>res/menu/print.svg</file>
+        <file>res/menu/quit.svg</file>
+        <file>res/menu/rhombus.svg</file>
+        <file>res/menu/save.svg</file>
+        <file>res/menu/square.svg</file>
+        <file>res/menu/Bin.svg</file>
+    </qresource>
+</RCC>
